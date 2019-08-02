@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ParisProject - CAT-clone",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3626,7 +3626,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c9a93d\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#073b4c\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#1a0208\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"5\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"9\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#c9a93d\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#073b4c\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#1a0208\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"4\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qSTLqBZV8U",
           "_anchor": "gallery1-1c",
           "_protectedParams": [
@@ -3718,20 +3718,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Via Quarta - Vida de ciutat",
-                "active": false
-              },
-              {
-                "tags": "Animada",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-0-55-48-667203.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=-IXa4LT9_Fk&t=128s",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "El Espiritu del Rio",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Increíble",
@@ -3757,7 +3744,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Look Lost",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -4183,7 +4170,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/behind-every-word\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>AMBIENT</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/icarus-a-lanscape-of-the-heart\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\">&nbsp;</span>ICARUS &nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/hidden-words\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>N.A. &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/behind-every-word\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>AMBIENT</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/icarus-a-lanscape-of-the-heart\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\">&nbsp;</span>ICARUS &nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/hidden-words\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>N.A. &nbsp; &nbsp; &nbsp; &nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSTadcdeQF",
           "_anchor": "content8-y",
           "_protectedParams": [],
@@ -4618,7 +4605,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/alien-dreams\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>ALIENS &nbsp; &nbsp;&nbsp;</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/desert\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>WORLD &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/one-hand-guitarrist-blues-band-dialogue-of-deaf\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>BLUES &nbsp; &nbsp;&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#1a0208\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/alien-dreams\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>ALIENS &nbsp; &nbsp;&nbsp;</a>\n                    <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/desert\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>WORLD &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-success-outline\" href=\"https://soundcloud.com/matias-torres-paris/one-hand-guitarrist-blues-band-dialogue-of-deaf\" target=\"_blank\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>BLUES &nbsp; &nbsp;&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSTanLndQ4",
           "_anchor": "content8-z",
           "_protectedParams": [],
