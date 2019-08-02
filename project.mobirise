@@ -1164,7 +1164,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Impressions.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Increíble",
@@ -1203,20 +1203,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Via Quarta - El Dinar dels Idiotes.",
-                "active": false
-              },
-              {
-                "tags": "Increíble",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-0-52-39-858894.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=-IXa4LT9_Fk&t=128s",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "El Espiritu del Rio",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Increíble",
