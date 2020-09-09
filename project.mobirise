@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ParisProject - CAT-clone-clone  2-clone",
+    "name": "ParisProject - CAT-9/9/20",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -578,7 +578,7 @@
             ".testimonial-text": {
               "font-style": "italic",
               "font-weight": "300",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".mbr-author-name": {
               "font-weight": "bold"
