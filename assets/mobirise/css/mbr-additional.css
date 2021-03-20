@@ -1070,32 +1070,24 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-skGde6r2iB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-ssduQ9Wb3d {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/aurora-5510268.gif");
 }
-.cid-skGde6r2iB .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-  text-align: center;
-}
-.cid-skGde6r2iB .mbr-author-name {
-  font-weight: bold;
-}
-.cid-skGde6r2iB .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
+@media (min-width: 992px) {
+  .cid-ssduQ9Wb3d .mbr-figure {
+    padding-right: 4rem;
+  }
 }
 @media (max-width: 991px) {
-  .cid-skGde6r2iB .mbr-figure,
-  .cid-skGde6r2iB img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+  .cid-ssduQ9Wb3d .mbr-figure {
+    padding-bottom: 3rem;
   }
-  .cid-skGde6r2iB .media-content {
-    padding-top: 1.5rem !important;
+}
+@media (max-width: 767px) {
+  .cid-ssduQ9Wb3d .mbr-text {
+    text-align: center;
   }
 }
 .cid-qTsvrW3D8E {
