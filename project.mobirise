@@ -70,7 +70,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 151,
+    "uniqCompNum": 152,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "favicon": false,
@@ -978,6 +978,32 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qTsPJemjmZ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#ffffff"
+            },
+            ".mbr-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#360814\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"No, imitacions, versions, tribut, remix ..... només MÚSICA feta des del cor.\"</div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-47",
+          "_isUserblock": true,
+          "_cid": "ssd6uTzPer",
           "_protectedParams": [],
           "_global": false,
           "_once": false,

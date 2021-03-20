@@ -1273,6 +1273,21 @@ section.lazy-placeholder:after {
     padding: 15px;
   }
 }
+.cid-ssd6uTzPer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #360814;
+}
+.cid-ssd6uTzPer .mbr-text,
+.cid-ssd6uTzPer blockquote {
+  color: #767676;
+}
+.cid-ssd6uTzPer .mbr-text B {
+  color: #ffffff;
+}
+.cid-ssd6uTzPer .mbr-text {
+  color: #ffffff;
+}
 .cid-qTsqV4l47H {
   background-image: url("../../../assets/images/mix-table-3388006-1921-1920x1280.jpg");
 }
